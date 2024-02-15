@@ -1,0 +1,12 @@
+names:
+- obstacle
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: krsbi-obstacle
+  url: https://universe.roboflow.com/krsbipolmanws/krsbi-obstacle/dataset/1
+  version: 1
+  workspace: krsbipolmanws
+test: /home/krsbi/YOLOv8_Obstacle_Detect/KRSBI-Obstacle-1/test/images
+train: /home/krsbi/YOLOv8_Obstacle_Detect/KRSBI-Obstacle-1/train/images
+val: /home/krsbi/YOLOv8_Obstacle_Detect/KRSBI-Obstacle-1/valid/images
